@@ -1,5 +1,13 @@
 # ultrasonic-radar-system
 Fully functional, environment scanning system using raspberry pi 3 and arduino uno. 
+The project is divided into two major parts which are the scanning and process. 
+
+HARDWARE REQUIREMENTS:
+Arduino uno (Preferably. any model will work just fine.)
+Raspberry pi 3(Any version will work just as same. you just need to add an external wifi dongle to connect the hardware online)
+USB PC camera
+Ultrasonic sensor for scanning.
+Servo moto (Any model is fine)
 
 FEATURES
 --CAPTURING IMAGE VIA USB-WEBCAM: For compatibility, we chose to use USB CAM over the standard raspberry camera module to avoid 
